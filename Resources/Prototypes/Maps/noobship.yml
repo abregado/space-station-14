@@ -1,0 +1,24 @@
+- type: gameMap
+  id: noobship
+  mapName: 'Noobship'
+  mapPath: /Maps/noobship.yml
+  minPlayers: 0
+  maxPlayers: 10
+  stations:
+    Knightship:
+      mapNameTemplate: '{0} Noobship {1}'
+      nameGenerator:
+        !type:NanotrasenNameGenerator
+        prefixCreator: 'R4'
+      overflowJobs:
+        - Passenger
+      availableJobs:
+        Botanist: [ 1, 1 ]
+        Chef: [ 1, 1 ]
+        Captain: [ 1, 1 ]
+        StationEngineer: [ 1, 1 ]
+        MedicalDoctor: [ 1, 1 ]
+        Scientist: [ 1, 1 ]
+        AtmosphericTechnician: [ 1, 1 ]
+        SecurityOfficer: [ 1, 1 ]
+        Passenger: [ -1, -1 ]
