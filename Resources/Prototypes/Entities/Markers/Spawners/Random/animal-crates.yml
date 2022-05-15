@@ -1,0 +1,48 @@
+- type: entity
+  name: Random Livestock Crate Spawner
+  id: LivestockCrateSpawnerSafe
+  suffix: Safe
+  parent: MarkerBase
+  components:
+    - type: Sprite
+      layers:
+        - state: red
+        - texture: Structures/Storage/Crates/livestock.rsi/livestockcrate.png
+    - type: RandomSpawner
+      prototypes:
+        - CrateNPCCow
+        - CrateNPCGoat
+        - CrateNPCChicken
+        - CrateNPCDuck
+        - CrateNPCGoose
+      chance: 0.9
+      rarePrototypes:
+        - CrateNPCButterflies
+        - CrateNPCCat
+      rareChance: 0.1
+- type: entity
+  name: Random Livestock Crate Spawner
+  id: LivestockCrateSpawnerDangerous
+  suffix: Dangerous
+  parent: MarkerBase
+  components:
+    - type: Sprite
+      layers:
+        - state: red
+        - texture: Structures/Storage/Crates/livestock.rsi/livestockcrate.png
+    - type: RandomSpawner
+      prototypes:
+        - CrateNPCCow
+        - CrateNPCGoat
+        - CrateNPCChicken
+        - CrateNPCDuck
+        - CrateNPCGoose
+        - CrateNPCBee
+      chance: 0.7
+      rarePrototypes:
+        - CrateNPCPenguin
+        - CrateNPCSnake
+        - CrateNPCParrot
+        - CrateNPCMonkeyCube
+        - CrateNPCGorilla
+      rareChance: 0.3

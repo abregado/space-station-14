@@ -1,0 +1,23 @@
+- type: entity
+  name: Random Book Spawner
+  id: BookSpawner
+  parent: MarkerBase
+  components:
+    - type: Sprite
+      layers:
+        - state: red
+        - texture: Objects/Misc/books.rsi/book2.png
+    - type: RandomSpawner
+      prototypes:
+        - BookRandom
+        - BookChemistryInsane
+        - BookBotanicalTextbook
+        - BookGnominomicon
+        - BookFishing
+        - BookDetective
+      chance: 0.6
+      rarePrototypes:
+        - BookDemonomiconRandom
+        - Bible
+        - BibleNecronomicon
+      rareChance: 0.1
