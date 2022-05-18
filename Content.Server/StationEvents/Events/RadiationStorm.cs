@@ -23,12 +23,12 @@ namespace Content.Server.StationEvents.Events
         public override string StartAnnouncement => Loc.GetString("station-event-radiation-storm-start-announcement");
         protected override string EndAnnouncement => Loc.GetString("station-event-radiation-storm-end-announcement");
         public override SoundSpecifier? StartAudio => new SoundPathSpecifier("/Audio/Announcements/radiation.ogg");
-        protected override float StartAfter => 10.0f;
+        protected override float StartAfter => 30.0f;
 
         // Event specific details
         private float _timeUntilPulse;
-        private const float MinPulseDelay = 0.2f;
-        private const float MaxPulseDelay = 0.8f;
+        private const float MinPulseDelay = 1.2f;
+        private const float MaxPulseDelay = 3.2f;
         private EntityUid _target = EntityUid.Invalid;
 
         private void ResetTimeUntilPulse()
