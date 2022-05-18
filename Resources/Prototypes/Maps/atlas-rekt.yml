@@ -11,7 +11,7 @@
         !type:NanotrasenNameGenerator
         prefixCreator: 'R4'
       overflowJobs:
-        - TechnicalAssistant
+        - Passenger
       availableJobs:
         Botanist: [ 1, 1 ]
         Chef: [ 1, 1 ]
@@ -23,8 +23,6 @@
         Passenger: [ -1, -1 ]
         Chaplain: [ 1, 1 ]
         Librarian: [ 1, 1 ]
-        Quartermaster: [ 1, 1 ]
+        CargoTechnician: [ 1, 1 ]
         Janitor: [ 1, 1 ]
-        HeadOfPersonnel: [ 1, 1 ]
-        ChiefEngineer: [ 1, 1 ]
-        ChiefMedicalOfficer: [ 1, 1 ]
+        Captain: [ 1, 1 ]

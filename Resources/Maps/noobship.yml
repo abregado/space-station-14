@@ -61,17 +61,17 @@ grids:
     tilesize: 1
   chunks:
   - ind: -1,-1
-    tiles: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMQAAADEAAAAxAAAAMQAAADEAAAAxAAAAMQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADEAAAAxAAAAMQAAADEAAAAxAAAAMQAAADEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAxAAAAMQAAACsAAAArAAADKwAAAisAAAMxAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMQAAADEAAAAlAAAAJQAAACUAAAArAAADMQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADEAAAAxAAAAJQAAACUAAAAlAAAAKwAAATEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAxAAAAMQAAACUAAAAlAAAAJQAAACsAAAIxAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMQAAADEAAAArAAAAKwAAACsAAAArAAACMQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADEAAAAxAAAAKwAAAysAAAMrAAADKwAAAjEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAxAAAAMQAAACsAAAArAAADKwAAAysAAAIrAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMQAAADEAAAArAAABKwAAAysAAAArAAABMQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADEAAAAxAAAAKwAAACsAAAIrAAADKwAAADEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAxAAAAMQAAADEAAAAxAAAAMQAAADEAAAAxAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMQAAADEAAAAxAAAAMQAAADEAAAAxAAAAMQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADEAAAAxAAAAMQAAADEAAAAxAAAAMQAAACsAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAxAAAAKwAAACsAAAArAAABKwAAAisAAAExAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAyAAAAMQAAADEAAAAxAAAAMQAAADEAAAAxAAAAMQAAAA==
+    tiles: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMQAAADEAAAAxAAAAMQAAADEAAAAxAAAAMQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADEAAAAxAAAAMQAAADEAAAAxAAAAMQAAADEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAxAAAAMQAAACsAAAArAAADKwAAAisAAAMxAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMQAAADEAAAAlAAAAJQAAACUAAAArAAADMQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADEAAAAxAAAAJQAAACUAAAAlAAAAKwAAATEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAxAAAAMQAAACUAAAAlAAAAJQAAACsAAAIxAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMQAAADEAAAArAAAAKwAAACsAAAArAAACMQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADEAAAAxAAAAKwAAAysAAAMrAAADKwAAAjEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAxAAAAMQAAACsAAAArAAADKwAAAysAAAIrAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMQAAADEAAAArAAABKwAAAysAAAArAAABMQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADEAAAAxAAAAKwAAACsAAAIrAAADKwAAADEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAxAAAAMQAAADEAAAAxAAAAMQAAADEAAAAxAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMQAAADEAAAAxAAAAMQAAADEAAAAxAAAAMQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADEAAAAxAAAAMQAAADEAAAAxAAAAMQAAACsAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAxAAAAKwAAACsAAAArAAABKwAAAisAAAExAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAxAAAAMQAAADEAAAAxAAAAMQAAADEAAAAxAAAAMQAAAA==
   - ind: 0,-1
-    tiles: MQAAADEAAAAxAAAAMQAAADEAAAAxAAAAMQAAADEAAAAxAAAAMQAAADEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsAAAErAAACHwAAAB8AAAAfAAAAHwAAACgAAAAoAAAAKAAAACgAAAAxAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAArAAABKwAAAR8AAAAfAAAAHwAAAB8AAAAoAAAAKAAAACgAAAAoAAAAMQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKwAAAisAAAMfAAAAHwAAAB8AAAAfAAAAKAAAACgAAAAoAAAAKAAAADEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsAAAMrAAACHwAAAB8AAAAfAAAAHwAAACgAAAAoAAAAKAAAACgAAAAxAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAArAAACKwAAAh8AAAAfAAAAHwAAAB8AAAAxAAAAKAAAADEAAAAxAAAAMQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKwAAAysAAAMxAAAAHwAAADEAAAAxAAAAMQAAACIAAAAiAAAAIgAAADEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsAAAIrAAAAKwAAACsAAAArAAAAMQAAACIAAAAiAAAAIgAAACIAAAAxAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAArAAACKwAAAisAAAArAAADKwAAAzEAAAAiAAAAIgAAACIAAAAiAAAAMQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKwAAACsAAAIrAAAAKwAAASsAAAErAAADLwAAAC8AAAAvAAABLwAAADEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsAAAArAAAAKwAAASsAAAIrAAABKwAAAi8AAAIvAAABLwAAAC8AAAMxAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAArAAABKwAAAzEAAAAxAAAALgAAATEAAAAxAAAAMQAAADEAAAAxAAAAMQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKwAAAysAAAMxAAAALgAAAS4AAAMuAAADLgAAAy4AAAEuAAAALgAAAzEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsAAAIrAAACMQAAAC4AAAMuAAADLgAAAC4AAAAuAAADLgAAAi4AAAExAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAArAAADKwAAAi4AAAIuAAABLgAAAC4AAAMuAAADLgAAAy4AAAAuAAABMQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKwAAAisAAAAxAAAALgAAAC4AAAExAAAALgAAAS4AAAEuAAACLgAAAjEAAAAyAAAAAAAAAAAAAAAAAAAAAAAAAA==
+    tiles: MQAAADEAAAAxAAAAMQAAADEAAAAxAAAAMQAAADEAAAAxAAAAMQAAADEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsAAAErAAACHwAAAB8AAAAfAAAAHwAAACgAAAAoAAAAKAAAACgAAAAxAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAArAAABKwAAAR8AAAAfAAAAHwAAAB8AAAAoAAAAKAAAACgAAAAoAAAAMQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKwAAAisAAAMfAAAAHwAAAB8AAAAfAAAAKAAAACgAAAAoAAAAKAAAADEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsAAAMrAAACHwAAAB8AAAAfAAAAHwAAACgAAAAoAAAAKAAAACgAAAAxAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAArAAACKwAAAh8AAAAfAAAAHwAAAB8AAAAxAAAAKAAAADEAAAAxAAAAMQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKwAAAysAAAMxAAAAHwAAADEAAAAxAAAAMQAAACIAAAAiAAAAIgAAADEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsAAAIrAAAAKwAAACsAAAArAAAAMQAAACIAAAAiAAAAIgAAACIAAAAxAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAArAAACKwAAAisAAAArAAADKwAAAzEAAAAiAAAAIgAAACIAAAAiAAAAMQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKwAAACsAAAIrAAAAKwAAASsAAAErAAADLwAAAC8AAAAvAAABLwAAADEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsAAAArAAAAKwAAASsAAAIrAAABKwAAAi8AAAIvAAABLwAAAC8AAAMxAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAArAAABKwAAAzEAAAAxAAAALgAAATEAAAAxAAAAMQAAADEAAAAxAAAAMQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKwAAAysAAAMxAAAALgAAAS4AAAMuAAADLgAAAy4AAAEuAAAALgAAAzEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACsAAAIrAAACMQAAAC4AAAMuAAADLgAAAC4AAAAuAAADLgAAAi4AAAExAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAArAAADKwAAAi4AAAIuAAABLgAAAC4AAAMuAAADLgAAAy4AAAAuAAABMQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKwAAAisAAAAxAAAALgAAAC4AAAExAAAALgAAAS4AAAEuAAACLgAAAjEAAAAxAAAAAAAAAAAAAAAAAAAAAAAAAA==
   - ind: 0,0
-    tiles: KwAAACsAAAExAAAAMQAAADEAAAAxAAAALgAAAC4AAAAuAAACLgAAAy4AAAEyAAAAAAAAAAAAAAAAAAAAAAAAACsAAAArAAABKwAAAysAAAAuAAABLgAAAy4AAAAuAAABLgAAAi4AAAEuAAACMgAAAAAAAAAAAAAAAAAAAAAAAAArAAACKwAAASsAAAErAAACLgAAAC4AAAEuAAAALgAAAC4AAAIuAAADLgAAAjIAAAAAAAAAAAAAAAAAAAAAAAAAGAAAABgAAAMxAAAAKwAAATEAAAAxAAAAMQAAADEAAAAxAAAALgAAAC4AAAIyAAAAAAAAAAAAAAAAAAAAAAAAABgAAAMYAAAAGAAAAxgAAAMWAAAAFgAAABYAAAAWAAAAMQAAADIAAAAyAAAAMgAAAAAAAAAAAAAAAAAAAAAAAAAYAAACGAAAAhgAAAIYAAABGAAAAhgAAAMYAAAAGAAAAjEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAhgAAAAYAAAAGAAAARgAAAMYAAABGAAAABgAAAAxAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADEAAAAxAAAAMQAAADEAAAAxAAAAMQAAADEAAAAxAAAAMQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+    tiles: KwAAACsAAAExAAAAMQAAADEAAAAxAAAALgAAAC4AAAAuAAACLgAAAy4AAAExAAAAAAAAAAAAAAAAAAAAAAAAACsAAAArAAABKwAAAysAAAAuAAABLgAAAy4AAAAuAAABLgAAAi4AAAEuAAACMQAAAAAAAAAAAAAAAAAAAAAAAAArAAACKwAAASsAAAErAAACLgAAAC4AAAEuAAAALgAAAC4AAAIuAAADLgAAAjEAAAAAAAAAAAAAAAAAAAAAAAAAGAAAABgAAAMxAAAAKwAAATEAAAAxAAAAMQAAADEAAAAxAAAALgAAAC4AAAIxAAAAAAAAAAAAAAAAAAAAAAAAABgAAAMYAAAAGAAAAxgAAAMWAAAAFgAAABYAAAAWAAAAMQAAADEAAAAxAAAAMQAAAAAAAAAAAAAAAAAAAAAAAAAYAAACGAAAAhgAAAIYAAABGAAAAhgAAAMYAAAAGAAAAjEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAhgAAAAYAAAAGAAAARgAAAMYAAABGAAAABgAAAAxAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADEAAAAxAAAAMQAAADEAAAAxAAAAMQAAADEAAAAxAAAAMQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
   - ind: -1,0
-    tiles: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAyAAAAKwAAASsAAAArAAABKwAAAisAAAArAAABKwAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMgAAACsAAAMrAAAAKwAAASsAAAMrAAACKwAAAisAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADIAAAAxAAAAJQAAADEAAAArAAABKwAAACsAAAErAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlAAAAJQAAACUAAAAxAAAAGAAAAhgAAAAYAAAAGAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMgAAADIAAAAyAAAAMQAAABgAAAMYAAADGAAAAxgAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADEAAAAYAAABGAAAARgAAAEYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAxAAAAGAAAAxgAAAIYAAAAGAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMQAAADEAAAAxAAAAMQAAADEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+    tiles: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAxAAAAKwAAASsAAAArAAABKwAAAisAAAArAAABKwAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMQAAACsAAAMrAAAAKwAAASsAAAMrAAACKwAAAisAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADEAAAAxAAAAJQAAADEAAAArAAABKwAAACsAAAErAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlAAAAJQAAACUAAAAxAAAAGAAAAhgAAAAYAAAAGAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMQAAADEAAAAxAAAAMQAAABgAAAMYAAADGAAAAxgAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADEAAAAYAAABGAAAARgAAAEYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAxAAAAGAAAAxgAAAIYAAAAGAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMQAAADEAAAAxAAAAMQAAADEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
   - ind: -1,-2
-    tiles: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAyAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMgAAADAAAAAwAAAAMAAAADAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMgAAADEAAAAwAAAAMAAAADAAAAAwAAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAxAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAMQAAADEAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMAAAADEAAAAxAAAAJQAAAA==
+    tiles: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAxAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMQAAADAAAAAwAAAAMAAAADAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMQAAADEAAAAwAAAAMAAAADAAAAAwAAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAxAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAMQAAADEAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMAAAADEAAAAxAAAAJQAAAA==
   - ind: 0,-2
-    tiles: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAyAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMQAAADIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAAAAwAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAMAAAADAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJQAAACUAAAAwAAAAMAAAADEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+    tiles: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAxAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMQAAADEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAAAAwAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAMAAAADAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJQAAACUAAAAwAAAAMAAAADEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
 entities:
 - uid: 0
   type: CableMV
@@ -329,15 +329,9 @@ entities:
 - uid: 27
   type: CableApcExtension
   components:
-  - pos: 10.5,0.5
+  - pos: -0.5,-20.5
     parent: 45
     type: Transform
-  - enabled: False
-    type: AmbientSound
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
 - uid: 28
   type: LockerCaptain
   components:
@@ -418,15 +412,11 @@ entities:
     parent: 45
     type: Transform
 - uid: 38
-  type: CableApcExtension
+  type: CableMV
   components:
-  - pos: 2.5,-15.5
+  - pos: 2.5,-18.5
     parent: 45
     type: Transform
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
 - uid: 39
   type: hydroponicsTray
   components:
@@ -1669,17 +1659,13 @@ entities:
     parent: 45
     type: Transform
 - uid: 53
-  type: CableApcExtension
+  type: CableMV
   components:
-  - pos: -2.5,-7.5
+  - pos: 10.5,1.5
     parent: 45
     type: Transform
   - enabled: False
     type: AmbientSound
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
 - uid: 54
   type: LockerAtmospherics
   components:
@@ -2083,15 +2069,11 @@ entities:
 - uid: 100
   type: CableApcExtension
   components:
-  - pos: 9.5,3.5
+  - pos: 7.5,-10.5
     parent: 45
     type: Transform
   - enabled: False
     type: AmbientSound
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
 - uid: 101
   type: Thruster
   components:
@@ -2120,17 +2102,9 @@ entities:
 - uid: 104
   type: CableApcExtension
   components:
-  - pos: 5.5,-11.5
+  - pos: 2.5,-9.5
     parent: 45
     type: Transform
-  - visible: False
-    type: Sprite
-  - enabled: False
-    type: AmbientSound
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
 - uid: 105
   type: Table
   components:
@@ -2156,17 +2130,11 @@ entities:
 - uid: 108
   type: CableApcExtension
   components:
-  - pos: 7.5,-10.5
+  - pos: 2.5,-12.5
     parent: 45
     type: Transform
-  - visible: False
-    type: Sprite
   - enabled: False
     type: AmbientSound
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
 - uid: 109
   type: WallSolid
   components:
@@ -2256,9 +2224,11 @@ entities:
 - uid: 120
   type: CableApcExtension
   components:
-  - pos: 6.5,3.5
+  - pos: 5.5,-12.5
     parent: 45
     type: Transform
+  - enabled: False
+    type: AmbientSound
 - uid: 121
   type: StoolBar
   components:
@@ -2290,15 +2260,9 @@ entities:
 - uid: 125
   type: CableApcExtension
   components:
-  - pos: 7.5,-13.5
+  - pos: 0.5,-20.5
     parent: 45
     type: Transform
-  - enabled: False
-    type: AmbientSound
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
 - uid: 126
   type: CableMV
   components:
@@ -2355,7 +2319,7 @@ entities:
 - uid: 131
   type: cargoTelepad
   components:
-  - pos: 7.5,6.5
+  - pos: -0.5,0.5
     parent: 45
     type: Transform
   - inputs:
@@ -2397,17 +2361,9 @@ entities:
 - uid: 136
   type: CableApcExtension
   components:
-  - pos: 6.5,-6.5
+  - pos: 2.5,-20.5
     parent: 45
     type: Transform
-  - visible: False
-    type: Sprite
-  - enabled: False
-    type: AmbientSound
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
 - uid: 137
   type: CableHV
   components:
@@ -2496,33 +2452,19 @@ entities:
   - fixtures: []
     type: Fixtures
 - uid: 145
-  type: CableApcExtension
+  type: SalternAPC
   components:
-  - pos: 7.5,-7.5
+  - pos: 1.5,-19.5
     parent: 45
     type: Transform
-  - visible: False
-    type: Sprite
-  - enabled: False
-    type: AmbientSound
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
 - uid: 146
   type: CableApcExtension
   components:
-  - pos: 6.5,-8.5
+  - pos: 6.5,-12.5
     parent: 45
     type: Transform
-  - visible: False
-    type: Sprite
   - enabled: False
     type: AmbientSound
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
 - uid: 147
   type: GasDualPortVentPump
   components:
@@ -2606,15 +2548,11 @@ entities:
 - uid: 155
   type: CableApcExtension
   components:
-  - pos: 6.5,0.5
+  - pos: -3.5,-7.5
     parent: 45
     type: Transform
   - enabled: False
     type: AmbientSound
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
 - uid: 156
   type: CableApcExtension
   components:
@@ -2847,7 +2785,7 @@ entities:
 - uid: 183
   type: SalternAPC
   components:
-  - pos: 2.5,-15.5
+  - pos: 2.5,-9.5
     parent: 45
     type: Transform
 - uid: 184
@@ -2881,13 +2819,9 @@ entities:
 - uid: 188
   type: CableApcExtension
   components:
-  - pos: 0.5,-19.5
+  - pos: 1.5,-19.5
     parent: 45
     type: Transform
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
 - uid: 189
   type: CableApcExtension
   components:
@@ -2925,19 +2859,11 @@ entities:
         ents: []
     type: ContainerContainer
 - uid: 193
-  type: CableMV
+  type: CableApcExtension
   components:
-  - pos: 6.5,-8.5
+  - pos: 1.5,-20.5
     parent: 45
     type: Transform
-  - visible: False
-    type: Sprite
-  - enabled: False
-    type: AmbientSound
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
 - uid: 194
   type: WindowDirectional
   components:
@@ -3304,13 +3230,11 @@ entities:
 - uid: 238
   type: CableApcExtension
   components:
-  - pos: -2.5,-4.5
+  - pos: 2.5,-10.5
     parent: 45
     type: Transform
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
+  - enabled: False
+    type: AmbientSound
 - uid: 239
   type: WallReinforced
   components:
@@ -3384,17 +3308,12 @@ entities:
   - fixtures: []
     type: Fixtures
 - uid: 248
-  type: CableMV
+  type: SalternAPC
   components:
-  - pos: 6.5,-6.5
+  - rot: -1.5707963267948966 rad
+    pos: 11.5,1.5
     parent: 45
     type: Transform
-  - enabled: False
-    type: AmbientSound
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
 - uid: 249
   type: IngotGold1
   components:
@@ -3606,25 +3525,19 @@ entities:
     parent: 45
     type: Transform
 - uid: 276
-  type: CableApcExtension
+  type: CableMV
   components:
-  - pos: 2.5,-17.5
+  - pos: 8.5,1.5
     parent: 45
     type: Transform
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
+  - enabled: False
+    type: AmbientSound
 - uid: 277
-  type: CableApcExtension
+  type: CableMV
   components:
-  - pos: 2.5,-18.5
+  - pos: 1.5,-19.5
     parent: 45
     type: Transform
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
 - uid: 278
   type: WallSolid
   components:
@@ -3798,15 +3711,11 @@ entities:
 - uid: 297
   type: CableApcExtension
   components:
-  - pos: 5.5,-13.5
+  - pos: -3.5,-8.5
     parent: 45
     type: Transform
   - enabled: False
     type: AmbientSound
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
 - uid: 298
   type: CableMV
   components:
@@ -3842,39 +3751,27 @@ entities:
 - uid: 301
   type: CableApcExtension
   components:
-  - pos: 3.5,-13.5
+  - pos: 7.5,-9.5
     parent: 45
     type: Transform
   - enabled: False
     type: AmbientSound
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
 - uid: 302
-  type: CableApcExtension
+  type: CableMV
   components:
-  - pos: 2.5,-10.5
+  - pos: 9.5,1.5
     parent: 45
     type: Transform
   - enabled: False
     type: AmbientSound
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
 - uid: 303
   type: CableApcExtension
   components:
-  - pos: 8.5,-13.5
+  - pos: 4.5,-12.5
     parent: 45
     type: Transform
   - enabled: False
     type: AmbientSound
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
 - uid: 304
   type: WallSolid
   components:
@@ -3894,17 +3791,13 @@ entities:
   - fixtures: []
     type: Fixtures
 - uid: 306
-  type: CableMV
+  type: CableApcExtension
   components:
-  - pos: 7.5,2.5
+  - pos: 2.5,-11.5
     parent: 45
     type: Transform
   - enabled: False
     type: AmbientSound
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
 - uid: 307
   type: VendingMachineDinnerware
   components:
@@ -4032,15 +3925,13 @@ entities:
         ents: []
     type: ContainerContainer
 - uid: 318
-  type: CableMV
+  type: CableApcExtension
   components:
-  - pos: 7.5,3.5
+  - pos: -3.5,-6.5
     parent: 45
     type: Transform
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
+  - enabled: False
+    type: AmbientSound
 - uid: 319
   type: WallSolid
   components:
@@ -4142,9 +4033,11 @@ entities:
 - uid: 329
   type: CableApcExtension
   components:
-  - pos: 7.5,3.5
+  - pos: -3.5,-9.5
     parent: 45
     type: Transform
+  - enabled: False
+    type: AmbientSound
 - uid: 330
   type: ChairOfficeLight
   components:
@@ -4550,13 +4443,11 @@ entities:
 - uid: 380
   type: CableApcExtension
   components:
-  - pos: 2.5,-19.5
+  - pos: 7.5,-8.5
     parent: 45
     type: Transform
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
+  - enabled: False
+    type: AmbientSound
 - uid: 381
   type: WindoorArmoryLocked
   components:
@@ -4654,37 +4545,23 @@ entities:
 - uid: 392
   type: CableApcExtension
   components:
-  - pos: -2.5,-8.5
+  - pos: 7.5,-11.5
     parent: 45
     type: Transform
   - enabled: False
     type: AmbientSound
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
 - uid: 393
-  type: CableApcExtension
+  type: CableMV
   components:
-  - pos: -2.5,-6.5
+  - pos: 2.5,-19.5
     parent: 45
     type: Transform
-  - enabled: False
-    type: AmbientSound
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
 - uid: 394
-  type: CableApcExtension
+  type: WallReinforced
   components:
-  - pos: -2.5,-3.5
+  - pos: 1.5,-18.5
     parent: 45
     type: Transform
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
 - uid: 395
   type: WallSolid
   components:
@@ -4719,19 +4596,11 @@ entities:
     parent: 45
     type: Transform
 - uid: 400
-  type: CableApcExtension
+  type: WallReinforced
   components:
-  - pos: 7.5,-9.5
+  - pos: 1.5,-19.5
     parent: 45
     type: Transform
-  - visible: False
-    type: Sprite
-  - enabled: False
-    type: AmbientSound
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
 - uid: 401
   type: Table
   components:
@@ -4791,9 +4660,9 @@ entities:
     parent: 45
     type: Transform
 - uid: 409
-  type: SalternAPC
+  type: CableApcExtension
   components:
-  - pos: 7.5,3.5
+  - pos: 3.5,-20.5
     parent: 45
     type: Transform
 - uid: 410
@@ -4974,17 +4843,9 @@ entities:
 - uid: 433
   type: CableMV
   components:
-  - pos: 6.5,-7.5
+  - pos: 11.5,1.5
     parent: 45
     type: Transform
-  - visible: False
-    type: Sprite
-  - enabled: False
-    type: AmbientSound
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
 - uid: 434
   type: GasPipeStraight
   components:
@@ -5093,9 +4954,9 @@ entities:
   - fixtures: []
     type: Fixtures
 - uid: 443
-  type: SalternAPC
+  type: CableApcExtension
   components:
-  - pos: -2.5,-3.5
+  - pos: 11.5,1.5
     parent: 45
     type: Transform
 - uid: 444
@@ -5157,11 +5018,13 @@ entities:
   - fixtures: []
     type: Fixtures
 - uid: 450
-  type: SalternAPC
+  type: CableApcExtension
   components:
-  - pos: 2.5,-9.5
+  - pos: 7.5,-12.5
     parent: 45
     type: Transform
+  - enabled: False
+    type: AmbientSound
 - uid: 451
   type: FirelockGlass
   components:
@@ -5260,27 +5123,19 @@ entities:
 - uid: 461
   type: CableApcExtension
   components:
-  - pos: -2.5,-5.5
+  - pos: 3.5,-12.5
     parent: 45
     type: Transform
   - enabled: False
     type: AmbientSound
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
 - uid: 462
   type: CableApcExtension
   components:
-  - pos: 2.5,-13.5
+  - pos: -3.5,-10.5
     parent: 45
     type: Transform
   - enabled: False
     type: AmbientSound
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
 - uid: 463
   type: CableMV
   components:
@@ -5439,13 +5294,9 @@ entities:
 - uid: 479
   type: CableMV
   components:
-  - pos: -2.5,-3.5
+  - pos: 2.5,-17.5
     parent: 45
     type: Transform
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
 - uid: 480
   type: WallSolid
   components:
@@ -5465,9 +5316,9 @@ entities:
   - fixtures: []
     type: Fixtures
 - uid: 482
-  type: SalternAPC
+  type: CableApcExtension
   components:
-  - pos: 6.5,-9.5
+  - pos: 2.5,-7.5
     parent: 45
     type: Transform
   - enabled: False
@@ -5584,13 +5435,11 @@ entities:
 - uid: 496
   type: CableApcExtension
   components:
-  - pos: 6.5,-9.5
+  - pos: 2.5,-8.5
     parent: 45
     type: Transform
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
+  - enabled: False
+    type: AmbientSound
 - uid: 497
   type: CableMV
   components:
@@ -5604,33 +5453,12 @@ entities:
   - fixtures: []
     type: Fixtures
 - uid: 498
-  type: CableApcExtension
+  type: EmergencyLight
   components:
-  - pos: 4.5,-11.5
+  - rot: 1.5707963267948966 rad
+    pos: 6.5,0.5
     parent: 45
     type: Transform
-  - visible: False
-    type: Sprite
-  - enabled: False
-    type: AmbientSound
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
-- uid: 499
-  type: CableApcExtension
-  components:
-  - pos: 3.5,-11.5
-    parent: 45
-    type: Transform
-  - visible: False
-    type: Sprite
-  - enabled: False
-    type: AmbientSound
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
 - uid: 500
   type: GasVentPump
   components:
@@ -5643,16 +5471,6 @@ entities:
   type: CableMV
   components:
   - pos: -1.5,-4.5
-    parent: 45
-    type: Transform
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
-- uid: 502
-  type: CableApcExtension
-  components:
-  - pos: 2.5,-16.5
     parent: 45
     type: Transform
   - canCollide: False
@@ -5821,9 +5639,9 @@ entities:
     parent: 45
     type: Transform
 - uid: 520
-  type: CrateFilledSpawner
+  type: TableGlass
   components:
-  - pos: -0.5,0.5
+  - pos: 4.5,6.5
     parent: 45
     type: Transform
 - uid: 521
@@ -5856,30 +5674,6 @@ entities:
       EntityStorageComponent: !type:Container
         ents: []
     type: ContainerContainer
-- uid: 524
-  type: CableApcExtension
-  components:
-  - pos: 3.5,-0.5
-    parent: 45
-    type: Transform
-  - enabled: False
-    type: AmbientSound
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
-- uid: 525
-  type: CableApcExtension
-  components:
-  - pos: 4.5,-0.5
-    parent: 45
-    type: Transform
-  - enabled: False
-    type: AmbientSound
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
 - uid: 526
   type: CableApcExtension
   components:
@@ -5961,18 +5755,6 @@ entities:
   - pos: -3.4977677,3.8203542
     parent: 45
     type: Transform
-- uid: 535
-  type: CableApcExtension
-  components:
-  - pos: 4.5,-13.5
-    parent: 45
-    type: Transform
-  - enabled: False
-    type: AmbientSound
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
 - uid: 536
   type: WindowDirectional
   components:
@@ -6122,16 +5904,6 @@ entities:
   - pos: -2.5,-15.5
     parent: 45
     type: Transform
-- uid: 554
-  type: CableApcExtension
-  components:
-  - pos: 1.5,-19.5
-    parent: 45
-    type: Transform
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
 - uid: 555
   type: CableMV
   components:
@@ -6296,18 +6068,6 @@ entities:
   - pos: -1.5,3.5
     parent: 45
     type: Transform
-- uid: 569
-  type: CableApcExtension
-  components:
-  - pos: 10.5,3.5
-    parent: 45
-    type: Transform
-  - enabled: False
-    type: AmbientSound
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
 - uid: 570
   type: Poweredlight
   components:
@@ -6399,28 +6159,6 @@ entities:
   - pos: 4.5,7.5
     parent: 45
     type: Transform
-- uid: 581
-  type: CableApcExtension
-  components:
-  - pos: 10.5,2.5
-    parent: 45
-    type: Transform
-  - enabled: False
-    type: AmbientSound
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
-- uid: 582
-  type: CableMV
-  components:
-  - pos: 6.5,-9.5
-    parent: 45
-    type: Transform
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
 - uid: 583
   type: CableMV
   components:
@@ -6510,34 +6248,10 @@ entities:
   - pos: -3.3393097,5.665207
     parent: 45
     type: Transform
-- uid: 593
-  type: CableApcExtension
-  components:
-  - pos: -1.5,-7.5
-    parent: 45
-    type: Transform
-  - enabled: False
-    type: AmbientSound
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
 - uid: 594
   type: Paper
   components:
   - pos: -3.6205597,5.446457
-    parent: 45
-    type: Transform
-- uid: 595
-  type: CableApcExtension
-  components:
-  - pos: 4.5,3.5
-    parent: 45
-    type: Transform
-- uid: 596
-  type: CableApcExtension
-  components:
-  - pos: 5.5,3.5
     parent: 45
     type: Transform
 - uid: 597
@@ -6655,10 +6369,10 @@ entities:
     parent: 45
     type: Transform
   - ringtone:
-    - C
     - D
     - C
-    - D
+    - E
+    - G
     type: Ringer
   - containers:
       PDA-id: !type:ContainerSlot {}
@@ -6693,14 +6407,6 @@ entities:
   - pos: -3.5,-14.5
     parent: 45
     type: Transform
-- uid: 614
-  type: CableApcExtension
-  components:
-  - pos: 4.5,-14.5
-    parent: 45
-    type: Transform
-  - enabled: False
-    type: AmbientSound
 - uid: 615
   type: Poweredlight
   components:
@@ -6844,20 +6550,6 @@ entities:
       EntityStorageComponent: !type:Container
         ents: []
     type: ContainerContainer
-- uid: 630
-  type: CableApcExtension
-  components:
-  - pos: 6.5,-7.5
-    parent: 45
-    type: Transform
-  - visible: False
-    type: Sprite
-  - enabled: False
-    type: AmbientSound
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
 - uid: 631
   type: WallSolid
   components:
@@ -6966,6 +6658,12 @@ entities:
   - name: Bridge
     type: MetaData
   - pos: 0.5,3.5
+    parent: 45
+    type: Transform
+- uid: 642
+  type: Multitool
+  components:
+  - pos: 4.4335966,6.6250963
     parent: 45
     type: Transform
 - uid: 643
@@ -7166,30 +6864,6 @@ entities:
     pos: 9.614395,-3.3047414
     parent: 45
     type: Transform
-- uid: 669
-  type: CableApcExtension
-  components:
-  - pos: 6.5,-11.5
-    parent: 45
-    type: Transform
-  - visible: False
-    type: Sprite
-  - enabled: False
-    type: AmbientSound
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
-- uid: 670
-  type: CableMV
-  components:
-  - pos: -2.5,-4.5
-    parent: 45
-    type: Transform
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
 - uid: 671
   type: ComputerResearchAndDevelopment
   components:
@@ -7667,20 +7341,6 @@ entities:
   - pos: -0.5,-1.5
     parent: 45
     type: Transform
-- uid: 718
-  type: CableApcExtension
-  components:
-  - pos: 2.5,-11.5
-    parent: 45
-    type: Transform
-  - visible: False
-    type: Sprite
-  - enabled: False
-    type: AmbientSound
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
 - uid: 719
   type: CableMV
   components:
@@ -7774,18 +7434,6 @@ entities:
   - pos: 5.5,-0.5
     parent: 45
     type: Transform
-- uid: 731
-  type: CableApcExtension
-  components:
-  - pos: 2.5,-12.5
-    parent: 45
-    type: Transform
-  - enabled: False
-    type: AmbientSound
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
 - uid: 732
   type: WindowReinforcedDirectional
   components:
@@ -7838,18 +7486,6 @@ entities:
     type: Transform
   - visible: False
     type: Sprite
-  - enabled: False
-    type: AmbientSound
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
-- uid: 737
-  type: CableApcExtension
-  components:
-  - pos: 7.5,2.5
-    parent: 45
-    type: Transform
   - enabled: False
     type: AmbientSound
   - canCollide: False
@@ -7919,34 +7555,12 @@ entities:
   - pos: 5.5,3.5
     parent: 45
     type: Transform
-- uid: 745
-  type: CableApcExtension
-  components:
-  - pos: 6.5,-13.5
-    parent: 45
-    type: Transform
-  - enabled: False
-    type: AmbientSound
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
 - uid: 746
   type: WallSolid
   components:
   - pos: 2.5,-2.5
     parent: 45
     type: Transform
-- uid: 747
-  type: CableMV
-  components:
-  - pos: 2.5,-15.5
-    parent: 45
-    type: Transform
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
 - uid: 748
   type: WindoorScienceLocked
   components:
@@ -8131,6 +7745,12 @@ entities:
     type: Physics
   - fixtures: []
     type: Fixtures
+- uid: 769
+  type: FoodBowlBig
+  components:
+  - pos: 8.443968,-14.300627
+    parent: 45
+    type: Transform
 - uid: 770
   type: GasVentPump
   components:

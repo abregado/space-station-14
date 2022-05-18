@@ -3105,13 +3105,11 @@ entities:
     parent: 4118
     type: Transform
 - uid: 328
-  type: VendingMachineCola
+  type: FoodBowlBig
   components:
-  - pos: -30.5,9.5
+  - pos: -3.2894592,14.184444
     parent: 4118
     type: Transform
-  - enabled: False
-    type: AmbientSound
 - uid: 329
   type: GasPressurePump
   components:
@@ -4281,21 +4279,11 @@ entities:
   - fixtures: []
     type: Fixtures
 - uid: 450
-  type: CrateSecure
+  type: CrateFilledSpawner
   components:
-  - pos: -29.5,21.5
+  - pos: -25.5,21.5
     parent: 4118
     type: Transform
-  - isPlaceable: False
-    type: PlaceableSurface
-  - containers:
-    - EntityStorageComponent
-    type: Construction
-  - containers:
-      EntityStorageComponent: !type:Container
-        ents: []
-      PaperLabel: !type:ContainerSlot {}
-    type: ContainerContainer
 - uid: 451
   type: CableHV
   components:
@@ -9852,11 +9840,15 @@ entities:
   - canCollide: False
     type: Physics
 - uid: 1001
-  type: Table
+  type: VendingMachineTankDispenserEngineering
   components:
+  - name: tank dispenser
+    type: MetaData
   - pos: -41.5,10.5
     parent: 4118
     type: Transform
+  - enabled: False
+    type: AmbientSound
 - uid: 1002
   type: GasPipeBend
   components:
@@ -10401,21 +10393,11 @@ entities:
   - fixtures: []
     type: Fixtures
 - uid: 1056
-  type: CrateScienceSecure
+  type: CrateFilledSpawner
   components:
-  - pos: -28.5,21.5
+  - pos: -26.5,21.5
     parent: 4118
     type: Transform
-  - isPlaceable: False
-    type: PlaceableSurface
-  - containers:
-    - EntityStorageComponent
-    type: Construction
-  - containers:
-      EntityStorageComponent: !type:Container
-        ents: []
-      PaperLabel: !type:ContainerSlot {}
-    type: ContainerContainer
 - uid: 1057
   type: CableHV
   components:
@@ -12324,21 +12306,11 @@ entities:
         ents: []
     type: ContainerContainer
 - uid: 1234
-  type: CrateHydroSecure
+  type: CrateFilledSpawner
   components:
-  - pos: -26.5,21.5
+  - pos: -28.5,21.5
     parent: 4118
     type: Transform
-  - isPlaceable: False
-    type: PlaceableSurface
-  - containers:
-    - EntityStorageComponent
-    type: Construction
-  - containers:
-      EntityStorageComponent: !type:Container
-        ents: []
-      PaperLabel: !type:ContainerSlot {}
-    type: ContainerContainer
 - uid: 1235
   type: ClosetEmergencyFilledRandom
   components:
@@ -13126,21 +13098,23 @@ entities:
     parent: 4118
     type: Transform
 - uid: 1328
-  type: VendingMachineCola
+  type: ClosetRadiationSuitFilled
   components:
-  - pos: -16.5,-2.5
+  - pos: -31.5,-9.5
     parent: 4118
     type: Transform
-  - enabled: False
-    type: AmbientSound
+  - isPlaceable: False
+    type: PlaceableSurface
+  - containers:
+      EntityStorageComponent: !type:Container
+        ents: []
+    type: ContainerContainer
 - uid: 1329
-  type: VendingMachineSnack
+  type: CrateFilledSpawner
   components:
-  - pos: -16.5,-3.5
+  - pos: -24.5,21.5
     parent: 4118
     type: Transform
-  - enabled: False
-    type: AmbientSound
 - uid: 1330
   type: Grille
   components:
@@ -21711,16 +21685,11 @@ entities:
     parent: 4118
     type: Transform
 - uid: 2229
-  type: ComputerResearchAndDevelopment
+  type: Multitool
   components:
-  - rot: -1.5707963267948966 rad
-    pos: -19.5,-8.5
+  - pos: -19.468725,14.80327
     parent: 4118
     type: Transform
-  - containers:
-      board: !type:Container
-        ents: []
-    type: ContainerContainer
 - uid: 2230
   type: TableReinforcedGlass
   components:
@@ -25066,13 +25035,17 @@ entities:
         ents: []
     type: ContainerContainer
 - uid: 2595
-  type: VendingMachineGames
+  type: ClosetRadiationSuitFilled
   components:
-  - pos: -5.5,-6.5
+  - pos: 22.5,-13.5
     parent: 4118
     type: Transform
-  - enabled: False
-    type: AmbientSound
+  - isPlaceable: False
+    type: PlaceableSurface
+  - containers:
+      EntityStorageComponent: !type:Container
+        ents: []
+    type: ContainerContainer
 - uid: 2596
   type: Window
   components:
@@ -28150,12 +28123,15 @@ entities:
   - fixtures: []
     type: Fixtures
 - uid: 2864
-  type: ComfyChair
+  type: VendingMachineTankDispenserEVA
   components:
-  - rot: 3.141592653589793 rad
-    pos: 22.5,-13.5
+  - name: tank dispenser
+    type: MetaData
+  - pos: 21.5,6.5
     parent: 4118
     type: Transform
+  - enabled: False
+    type: AmbientSound
 - uid: 2865
   type: ClothingNeckBling
   components:
@@ -29292,13 +29268,11 @@ entities:
     parent: 4118
     type: Transform
 - uid: 2972
-  type: VendingMachineSnack
+  type: FoodBowlBig
   components:
-  - pos: 20.5,-14.5
+  - pos: -3.2425842,15.059444
     parent: 4118
     type: Transform
-  - enabled: False
-    type: AmbientSound
 - uid: 2973
   type: FirelockEdge
   components:
@@ -46647,10 +46621,10 @@ entities:
       - 0
       - 0
     - volume: 2500
-      temperature: 138.84843
+      temperature: 137.56305
       moles:
-      - 10.230412
-      - 38.485836
+      - 10.133825
+      - 38.12249
       - 0
       - 0
       - 0
@@ -46658,10 +46632,10 @@ entities:
       - 0
       - 0
     - volume: 2500
-      temperature: 283.50613
+      temperature: 282.78082
       moles:
-      - 21.100225
-      - 79.37704
+      - 21.045723
+      - 79.17201
       - 0
       - 0
       - 0
@@ -46680,10 +46654,10 @@ entities:
       - 0
       - 0
     - volume: 2500
-      temperature: 254.5746
+      temperature: 251.67332
       moles:
-      - 18.926262
-      - 71.1988
+      - 18.708256
+      - 70.37868
       - 0
       - 0
       - 0
@@ -50962,13 +50936,6 @@ entities:
     type: Transform
   - solution: drink
     type: DrainableSolution
-- uid: 4568
-  type: SinkWide
-  components:
-  - rot: -1.5707963267948966 rad
-    pos: -1.5,12.5
-    parent: 4118
-    type: Transform
 - uid: 4569
   type: WallReinforced
   components:
@@ -51061,9 +51028,9 @@ entities:
     parent: 4118
     type: Transform
 - uid: 4580
-  type: Rack
+  type: CrateFilledSpawner
   components:
-  - pos: 21.5,6.5
+  - pos: -29.5,21.5
     parent: 4118
     type: Transform
 - uid: 4581
@@ -57504,21 +57471,11 @@ entities:
   - fixtures: []
     type: Fixtures
 - uid: 5257
-  type: CrateEngineeringSecure
+  type: CrateFilledSpawner
   components:
-  - pos: -25.5,21.5
+  - pos: -27.5,21.5
     parent: 4118
     type: Transform
-  - isPlaceable: False
-    type: PlaceableSurface
-  - containers:
-    - EntityStorageComponent
-    type: Construction
-  - containers:
-      EntityStorageComponent: !type:Container
-        ents: []
-      PaperLabel: !type:ContainerSlot {}
-    type: ContainerContainer
 - uid: 5258
   type: CableHV
   components:
@@ -58351,21 +58308,11 @@ entities:
   - canCollide: False
     type: Physics
 - uid: 5347
-  type: CrateMedicalSecure
+  type: Rack
   components:
-  - pos: -27.5,21.5
+  - pos: -34.5,8.5
     parent: 4118
     type: Transform
-  - isPlaceable: False
-    type: PlaceableSurface
-  - containers:
-    - EntityStorageComponent
-    type: Construction
-  - containers:
-      EntityStorageComponent: !type:Container
-        ents: []
-      PaperLabel: !type:ContainerSlot {}
-    type: ContainerContainer
 - uid: 5348
   type: GasPipeStraight
   components:
@@ -60237,14 +60184,6 @@ entities:
     type: Physics
   - fixtures: []
     type: Fixtures
-- uid: 5541
-  type: VendingMachineSnack
-  components:
-  - pos: -30.5,10.5
-    parent: 4118
-    type: Transform
-  - enabled: False
-    type: AmbientSound
 - uid: 5542
   type: DisposalUnit
   components:
@@ -61145,9 +61084,9 @@ entities:
     parent: 4118
     type: Transform
 - uid: 5642
-  type: Table
+  type: ClothingOuterHardsuitEVA
   components:
-  - pos: -34.5,8.5
+  - pos: -34.52159,8.664717
     parent: 4118
     type: Transform
 - uid: 5643
@@ -63656,4 +63595,34 @@ entities:
   - pos: 27.960592,8.369297
     parent: 4118
     type: Transform
+- uid: 5917
+  type: ClothingHeadHelmetEVA
+  components:
+  - pos: -34.693466,8.430342
+    parent: 4118
+    type: Transform
+- uid: 5918
+  type: ClothingMaskBreath
+  components:
+  - pos: -35.412216,8.649092
+    parent: 4118
+    type: Transform
+- uid: 5919
+  type: ExtendedEmergencyOxygenTank
+  components:
+  - pos: -35.755966,8.524092
+    parent: 4118
+    type: Transform
+- uid: 5920
+  type: ClosetRadiationSuitFilled
+  components:
+  - pos: 19.5,16.5
+    parent: 4118
+    type: Transform
+  - isPlaceable: False
+    type: PlaceableSurface
+  - containers:
+      EntityStorageComponent: !type:Container
+        ents: []
+    type: ContainerContainer
 ...
