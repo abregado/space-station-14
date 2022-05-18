@@ -50,3 +50,4 @@
   - type: ExtensionCableReceiver
   - type: CargoTelepad
   - type: Appearance
+  - type: CollideOnAnchor
