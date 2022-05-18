@@ -8,6 +8,7 @@
   supervisors: "the chief medical officer"
   access:
   - Medical
+  - Chemistry
   - Maintenance
 
 - type: startingGear

@@ -9,6 +9,7 @@
   access:
   - Maintenance
   - Engineering
+  - Atmospherics
   - External
 
 - type: startingGear
