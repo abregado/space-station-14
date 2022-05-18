@@ -2256,15 +2256,9 @@ entities:
 - uid: 120
   type: CableApcExtension
   components:
-  - pos: 4.5,4.5
+  - pos: 6.5,3.5
     parent: 45
     type: Transform
-  - enabled: False
-    type: AmbientSound
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
 - uid: 121
   type: StoolBar
   components:
@@ -4148,17 +4142,9 @@ entities:
 - uid: 329
   type: CableApcExtension
   components:
-  - pos: 4.5,4.5
+  - pos: 7.5,3.5
     parent: 45
     type: Transform
-  - visible: False
-    type: Sprite
-  - enabled: False
-    type: AmbientSound
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
 - uid: 330
   type: ChairOfficeLight
   components:
@@ -6545,27 +6531,15 @@ entities:
 - uid: 595
   type: CableApcExtension
   components:
-  - pos: 7.5,4.5
+  - pos: 4.5,3.5
     parent: 45
     type: Transform
-  - enabled: False
-    type: AmbientSound
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
 - uid: 596
   type: CableApcExtension
   components:
-  - pos: 6.5,4.5
+  - pos: 5.5,3.5
     parent: 45
     type: Transform
-  - enabled: False
-    type: AmbientSound
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
 - uid: 597
   type: WallSolid
   components:
@@ -6682,9 +6656,9 @@ entities:
     type: Transform
   - ringtone:
     - C
-    - G
-    - A
-    - E
+    - D
+    - C
+    - D
     type: Ringer
   - containers:
       PDA-id: !type:ContainerSlot {}
@@ -6994,16 +6968,6 @@ entities:
   - pos: 0.5,3.5
     parent: 45
     type: Transform
-- uid: 642
-  type: CableApcExtension
-  components:
-  - pos: 7.5,3.5
-    parent: 45
-    type: Transform
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
 - uid: 643
   type: RailingCorner
   components:
@@ -8167,18 +8131,6 @@ entities:
     type: Physics
   - fixtures: []
     type: Fixtures
-- uid: 769
-  type: CableApcExtension
-  components:
-  - pos: 5.5,4.5
-    parent: 45
-    type: Transform
-  - enabled: False
-    type: AmbientSound
-  - canCollide: False
-    type: Physics
-  - fixtures: []
-    type: Fixtures
 - uid: 770
   type: GasVentPump
   components:
@@ -8292,4 +8244,20 @@ entities:
     pos: 4.5,4.5
     parent: 45
     type: Transform
+- uid: 782
+  type: CircuitImprinter
+  components:
+  - pos: 6.5,0.5
+    parent: 45
+    type: Transform
+  - containers:
+    - machine_parts
+    - machine_board
+    type: Construction
+  - containers:
+      machine_board: !type:Container
+        ents: []
+      machine_parts: !type:Container
+        ents: []
+    type: ContainerContainer
 ...

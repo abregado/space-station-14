@@ -42635,7 +42635,7 @@ entities:
       -2,4: 0
       -2,5: 0
       -2,7: 0
-      -2,8: 0
+      -2,8: 3
       -2,9: 0
       -2,10: 0
       -1,0: 0
@@ -42769,7 +42769,7 @@ entities:
       -3,-10: 0
       -3,-9: 0
       -3,-5: 0
-      -3,-4: 3
+      -3,-4: 4
       -3,-3: 0
       -3,-2: 0
       -3,-1: 0
@@ -42792,7 +42792,7 @@ entities:
       -3,5: 0
       -3,6: 0
       -3,7: 0
-      -3,8: 4
+      -3,8: 5
       -3,9: 0
       -3,10: 0
       -3,11: 0
@@ -46566,15 +46566,15 @@ entities:
       -37,23: 0
       -35,23: 0
       -33,23: 0
-      -48,1: 5
+      -48,1: 6
       -48,2: 0
-      -48,3: 6
-      -47,1: 5
+      -48,3: 7
+      -47,1: 6
       -47,2: 0
-      -47,3: 6
-      -46,1: 5
+      -47,3: 7
+      -46,1: 6
       -46,2: 0
-      -46,3: 6
+      -46,3: 7
       -45,1: 0
       -45,2: 0
       -45,3: 0
@@ -46647,10 +46647,21 @@ entities:
       - 0
       - 0
     - volume: 2500
-      temperature: 147.92499
+      temperature: 138.84843
       moles:
-      - 10.912439
-      - 41.05156
+      - 10.230412
+      - 38.485836
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+    - volume: 2500
+      temperature: 283.50613
+      moles:
+      - 21.100225
+      - 79.37704
       - 0
       - 0
       - 0
@@ -46669,10 +46680,10 @@ entities:
       - 0
       - 0
     - volume: 2500
-      temperature: 256.84375
+      temperature: 254.5746
       moles:
-      - 19.09677
-      - 71.840225
+      - 18.926262
+      - 71.1988
       - 0
       - 0
       - 0
@@ -63600,6 +63611,49 @@ entities:
   type: WallReinforced
   components:
   - pos: 29.5,16.5
+    parent: 4118
+    type: Transform
+- uid: 5911
+  type: ClothingShoesBootsMagAdv
+  components:
+  - pos: -33.73999,10.585505
+    parent: 4118
+    type: Transform
+- uid: 5912
+  type: Rack
+  components:
+  - pos: -23.5,-9.5
+    parent: 4118
+    type: Transform
+- uid: 5913
+  type: ClothingOuterHardsuitRd
+  components:
+  - pos: -23.523857,-9.397558
+    parent: 4118
+    type: Transform
+  - containers:
+      toggleable-clothing: !type:ContainerSlot {}
+    type: ContainerContainer
+- uid: 5914
+  type: AntiqueLaserGun
+  components:
+  - pos: 12.344545,18.56283
+    parent: 4118
+    type: Transform
+  - containers:
+      Content.Server.Weapon.Ranged.Barrels.Components.BatteryBarrelComponent-ammo-container: !type:ContainerSlot {}
+      cellslot_cell_container: !type:ContainerSlot {}
+    type: ContainerContainer
+- uid: 5915
+  type: Hypospray
+  components:
+  - pos: 9.629809,-8.3124695
+    parent: 4118
+    type: Transform
+- uid: 5916
+  type: NukeDisk
+  components:
+  - pos: 27.960592,8.369297
     parent: 4118
     type: Transform
 ...
