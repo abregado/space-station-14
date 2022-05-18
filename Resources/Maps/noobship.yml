@@ -5459,6 +5459,22 @@ entities:
     pos: 6.5,0.5
     parent: 45
     type: Transform
+- uid: 499
+  type: UniformPrinter
+  components:
+  - pos: -0.5,6.5
+    parent: 45
+    type: Transform
+  - containers:
+    - machine_parts
+    - machine_board
+    type: Construction
+  - containers:
+      machine_board: !type:Container
+        ents: []
+      machine_parts: !type:Container
+        ents: []
+    type: ContainerContainer
 - uid: 500
   type: GasVentPump
   components:
@@ -6369,10 +6385,10 @@ entities:
     parent: 45
     type: Transform
   - ringtone:
-    - D
-    - C
+    - A
     - E
-    - G
+    - A
+    - E
     type: Ringer
   - containers:
       PDA-id: !type:ContainerSlot {}

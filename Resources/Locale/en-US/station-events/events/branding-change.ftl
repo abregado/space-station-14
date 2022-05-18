@@ -1,0 +1,1 @@
+﻿station-event-branding-change-announcement = The Nanotrasen board of directors has voted to change the company branding. All current crew jumpsuits are now considered contraband. Please see the Captain or Head of Personnel to hand them in and receive a new set.
