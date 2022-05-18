@@ -16,8 +16,8 @@ namespace Content.Server.StationEvents.Events
 
         public override int EarliestStart => 30;
         public override float Weight => WeightLow;
-        public override int? MaxOccurrences => 2;
-        public override int MinimumPlayers => 20;
+        public override int? MaxOccurrences => 1;
+        public override int MinimumPlayers => 5;
 
         public override string StartAnnouncement =>  Loc.GetString("station-event-meteor-swarm-start-announcement");
         protected override string EndAnnouncement => Loc.GetString("station-event-meteor-swarm-ebd-announcement");

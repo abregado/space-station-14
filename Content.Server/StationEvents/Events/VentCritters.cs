@@ -11,7 +11,7 @@ public sealed class VentCritters : StationEvent
     [Dependency] private readonly IEntityManager _entityManager = default!;
 
     public static List<string> SpawnedPrototypeChoices = new List<string>()
-        {"MobGiantSpiderAngry", "MobMouse", "MobMouse1", "MobMouse2"};
+        {"MobMouse", "MobMouse1", "MobMouse2"};
 
     public override string Name => "VentCritters";
 
@@ -22,7 +22,7 @@ public sealed class VentCritters : StationEvent
 
     public override int EarliestStart => 15;
 
-    public override int MinimumPlayers => 15;
+    public override int MinimumPlayers => 5;
 
     public override float Weight => WeightLow;
 

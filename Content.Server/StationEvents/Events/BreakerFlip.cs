@@ -18,7 +18,7 @@ public sealed class BreakerFlip : StationEvent
     public override float Weight => WeightNormal;
     protected override float EndAfter => 1.0f;
     public override int? MaxOccurrences => 5;
-    public override int MinimumPlayers => 15;
+    public override int MinimumPlayers => 5;
 
     public override void Startup()
     {

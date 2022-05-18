@@ -15,7 +15,7 @@ public sealed class KudzuGrowth : StationEvent
 
     public override int EarliestStart => 15;
 
-    public override int MinimumPlayers => 15;
+    public override int MinimumPlayers => 5;
 
     public override float Weight => WeightLow;
 

@@ -7,5 +7,5 @@ public sealed class GrowingKudzuComponent : Component
     public int GrowthLevel = 1;
 
     [DataField("growthTickSkipChance")]
-    public float GrowthTickSkipChange = 0.0f;
+    public float GrowthTickSkipChange = 0f;
 }

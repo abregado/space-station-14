@@ -39,11 +39,13 @@ public sealed class GrowingKudzuSystem : EntitySystem
             if (kudzu.GrowthLevel >= 3 || !_robustRandom.Prob(kudzu.GrowthTickSkipChange)) continue;
             kudzu.GrowthLevel += 1;
 
-            if (kudzu.GrowthLevel == 3 &&
-                EntityManager.TryGetComponent<SpreaderComponent>((kudzu).Owner, out var spreader))
+            if (kudzu.GrowthLevel == 3)
             {
-                // why cache when you can simply cease to be? Also saves a bit of memory/time.
-                EntityManager.RemoveComponent<GrowingKudzuComponent>((kudzu).Owner);
+                if (EntityManager.TryGetComponent<SpreaderComponent>((kudzu).Owner, out var spreader))
+                {
+                    // why cache when you can simply cease to be? Also saves a bit of memory/time.
+                    EntityManager.RemoveComponent<GrowingKudzuComponent>((kudzu).Owner);
+                }
             }
 
             appearance.SetData(KudzuVisuals.GrowthLevel, kudzu.GrowthLevel);

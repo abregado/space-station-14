@@ -72,9 +72,9 @@
     - type: AtmosExposed
     - type: Spreader
       growthResult: Kudzu
-      chance: 1
+      chance: 0.3
     - type: GrowingKudzu
-      growthTickSkipChance: 0.1666
+      growthTickSkipChance: 0.016
     - type: SlowContacts
       walkSpeedModifier: 0.2
       sprintSpeedModifier: 0.2
