@@ -30,10 +30,6 @@
       normal: corgi
       crit: corgi_dead
       dead: corgi_dead
-  - type: Butcherable
-    spawned:
-    - id: FoodMeat
-      amount: 2
   - type: ReplacementAccent
     accent: dog
   - type: InteractionPopup
@@ -47,55 +43,19 @@
   - type: SentienceTarget
     flavorKind: corgi
   - type: Puller
-    - type: Sprite
-      drawdepth: Mobs
-      sprite: Mobs/Pets/corgi.rsi
-      layers:
-        - map: [ "enum.DamageStateVisualLayers.Base" ]
-          state: corgi
-    - type: Physics
-    - type: Fixtures
-      fixtures:
-        - shape:
-            !type:PhysShapeCircle
-            radius: 0.35
-          mass: 10
-          mask:
-            - MobMask
-          layer:
-            - MobLayer
-    - type: Appearance
-      visuals:
-        - type: DamageStateVisualizer
-          normal: corgi
-          crit: corgi_dead
-          dead: corgi_dead
-    - type: Butcherable
-      spawned:
+  - type: Butcherable
+    spawned:
         - id: FoodMeatCorgi
           amount: 2
-    - type: ReplacementAccent
-      accent: dog
-    - type: InteractionPopup
-      interactSuccessString: petting-success-dog
-      interactFailureString: petting-failure-generic
-      interactSuccessSound:
-        path: /Audio/Animals/small_dog_bark_happy.ogg
-    - type: Grammar
-      attributes:
-        gender: epicene
-    - type: SentienceTarget
-      flavorKind: corgi
-    - type: Puller
-    - type: GhostTakeoverAvailable
-      makeSentient: true
-      name: Corgi
-      description: Be a good boy.
-      rules: |
-        You are bound by these laws both in-game and out-of-character:
-        1. You do not remember anything from your former life.
-        2. You have a great sense of hearing and smell.
-        3. You are friendly to all sentient creatures.
+  - type: GhostTakeoverAvailable
+    makeSentient: true
+    name: Corgi
+    description: Be a good boy.
+    rules: |
+      You are bound by these laws both in-game and out-of-character:
+      1. You do not remember anything from your former life.
+      2. You have a great sense of hearing and smell.
+      3. You are friendly to all sentient creatures.
 
 - type: entity
   name: corrupted corgi
@@ -183,15 +143,11 @@
     attributes:
       proper: true
       gender: male
-  - type: Butcherable
-    spawned:
-    - id: FoodMeatCorgi
-      amount: 2
 
 - type: entity
   name: Old Ian
   parent: MobCorgi
-  id: MobCorgiIanOld
+  id: MobCorgiIan
   description: Still the favorite pet corgi. Love his wheels.
   components:
   - type: Sprite
